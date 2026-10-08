@@ -12,3 +12,5 @@ Git está ficando muito mais fácil para mim.
 Git está ficando cada vez mais fácil para mim!
 
 Estou trabalhando na feature/login.
+
+Estou aprendendo git pull pelo terminal.
