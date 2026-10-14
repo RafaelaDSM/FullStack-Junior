@@ -14,3 +14,5 @@ Git está ficando cada vez mais fácil para mim!
 Estou trabalhando na feature/login.
 
 Estou aprendendo git pull pelo terminal.
+
+Estou aprendendo a criar Pull Requests pelo GitHub.
